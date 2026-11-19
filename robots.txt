@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://battle-prime.github.io/Halcyon-Conseil/sitemap.xml
+Sitemap: https://halcyon-conseil.github.io/Halcyon-Conseil/sitemap.xml
